@@ -44,3 +44,4 @@ http://www.shitouboy.com/user/login
 http://www.shitouboy.com/user/signup
 http://www.shitouboy.com/mkstone/about
 http://www.shitouboy.com/mkstone/contact
+http://www.shitouboy.com/popularize/others/5b363d308f86a67bc547a95e
